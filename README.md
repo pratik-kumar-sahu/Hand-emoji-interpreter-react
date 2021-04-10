@@ -1,0 +1,1 @@
+# Hand-emoji-interpreter-react
